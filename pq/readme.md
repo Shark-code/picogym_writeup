@@ -1,5 +1,8 @@
 # Mind your Ps and Qs
 
+## Description
+In RSA, a small e value can be problematic, but what about N? Can you decrypt this? values
+
 ## RSA
 We have encrypted message c and public key {e, n}. If we can calculate the private key ({d, n}), then we can get the message m.
 
