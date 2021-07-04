@@ -1,7 +1,3 @@
-# Mod 26
-Shift right 13 times.
-
-```
 s = "cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_nSkgmDJE}"
 
 ss = ''
@@ -15,6 +11,4 @@ for i in range(len(s)):
 		ss += s[i]
 
 print(ss)
-
-```
 
