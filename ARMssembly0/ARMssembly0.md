@@ -4,7 +4,7 @@ What integer does this program print with arguments 4134207980 and 950176538? Fi
 
 ## Solution
 Compile the file and decompile the executable file with Ghidra.
-```
+```c
 
 uint max_val(uint param_1,uint param_2)
 {
